@@ -4,6 +4,20 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🔍 What is Compliance as Code?](#-what-is-compliance-as-code)
+- [🏗️ Banking Regulatory Framework](#-banking-regulatory-framework)
+- [📋 Compliance Checks in CI/CD](#-compliance-checks-in-cicd)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: PCI-DSS Compliance Pipeline](#e2e-example-1-pci-dss-compliance-pipeline)
+  - [E2E Example 2: GDPR Data Subject Request](#e2e-example-2-gdpr-data-subject-request)
+  - [E2E Example 3: RBI Data Localization Check](#e2e-example-3-rbi-data-localization-check)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🔍 What is Compliance as Code?
 
 **Compliance as Code** means writing automated checks that verify regulatory requirements in every deployment. Instead of manual audits, compliance is continuously enforced.

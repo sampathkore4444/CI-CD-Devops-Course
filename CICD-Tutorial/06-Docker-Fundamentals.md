@@ -4,6 +4,25 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🐳 What is Docker?](#-what-is-docker)
+- [🏗️ Docker Architecture](#️-docker-architecture)
+- [📝 Dockerfile — Building Images](#-dockerfile--building-images)
+- [🔧 Essential Docker Commands](#-essential-docker-commands)
+- [🏦 Real-World Banking Scenarios](#-real-world-banking-scenarios)
+  - [Scenario 1: Consistent Development Environments](#scenario-1-consistent-development-environments)
+  - [Scenario 2: CI Pipeline Docker Usage](#scenario-2-ci-pipeline-docker-usage)
+  - [Scenario 3: Production Container Deployment](#scenario-3-production-container-deployment)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Containerizing a Legacy Banking Application](#e2e-example-1-containerizing-a-legacy-banking-application)
+  - [E2E Example 2: Multi-Container Banking Stack](#e2e-example-2-multi-container-banking-stack)
+  - [E2E Example 3: Docker-Based CI Pipeline for Banking](#e2e-example-3-docker-based-ci-pipeline-for-banking)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🐳 What is Docker?
 
 **Docker** is a platform that packages applications and their dependencies into **lightweight, portable containers** that run consistently anywhere.

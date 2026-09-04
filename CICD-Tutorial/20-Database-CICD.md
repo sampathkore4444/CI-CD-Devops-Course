@@ -4,6 +4,20 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🔍 Why Database CI/CD is Critical](#-why-database-cicd-is-critical)
+- [🛠️ Database Migration Tools](#️-database-migration-tools)
+- [📋 Flyway Example](#-flyway-example)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Safe Column Addition](#e2e-example-1-safe-column-addition)
+  - [E2E Example 2: Database Migration with Rollback](#e2e-example-2-database-migration-with-rollback)
+  - [E2E Example 3: Schema Validation in CI](#e2e-example-3-schema-validation-in-ci)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🔍 Why Database CI/CD is Critical
 
 ```

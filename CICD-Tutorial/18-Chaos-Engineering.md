@@ -4,6 +4,20 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🔍 What is Chaos Engineering?](#-what-is-chaos-engineering)
+- [🛠️ Chaos Engineering Tools](#️-chaos-engineering-tools)
+- [🏗️ Chaos Engineering Architecture](#️-chaos-engineering-architecture)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Pod Failure Test](#e2e-example-1-pod-failure-test)
+  - [E2E Example 2: Network Partition Test](#e2e-example-2-network-partition-test)
+  - [E2E Example 3: Database Failover Test](#e2e-example-3-database-failover-test)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🔍 What is Chaos Engineering?
 
 **Chaos Engineering** is the practice of **intentionally injecting failures** into a system to discover weaknesses before they cause real outages.

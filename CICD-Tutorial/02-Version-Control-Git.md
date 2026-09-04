@@ -4,6 +4,25 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🔍 What is Version Control?](#-what-is-version-control)
+- [🏗️ Git Architecture](#️-git-architecture)
+- [🔑 Essential Git Commands](#-essential-git-commands)
+- [🌿 Branching Strategies](#-branching-strategies)
+- [🏦 Real-World Banking Scenarios](#-real-world-banking-scenarios)
+  - [Scenario 1: Hotfix for a Critical Payment Bug](#scenario-1-hotfix-for-a-critical-payment-bug)
+  - [Scenario 2: Compliance Audit Trail](#scenario-2-compliance-audit-trail)
+  - [Scenario 3: Parallel Feature Development](#scenario-3-parallel-feature-development)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Hotfix for a Critical NEFT Transaction Bug](#e2e-example-1-hotfix-for-a-critical-neft-transaction-bug)
+  - [E2E Example 2: Quarterly Regulatory Code Release](#e2e-example-2-quarterly-regulatory-code-release)
+  - [E2E Example 3: Multi-Team Feature Integration](#e2e-example-3-multi-team-feature-integration)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🔍 What is Version Control?
 
 **Version Control** is a system that records changes to files over time so you can recall specific versions later. Think of it as a **time machine for your code** — you can go back to any point in history.

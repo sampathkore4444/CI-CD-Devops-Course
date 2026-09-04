@@ -4,6 +4,25 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🔍 What is Continuous Delivery?](#-what-is-continuous-delivery)
+- [🏗️ Delivery Pipeline Architecture](#-delivery-pipeline-architecture)
+- [🎭 Deployment Strategies](#-deployment-strategies)
+- [🔄 The Approval Gate](#-the-approval-gate)
+- [🏦 Real-World Banking Scenarios](#-real-world-banking-scenarios)
+  - [Scenario 1: End-of-Day (EOD) Processing Update](#scenario-1-end-of-day-eod-processing-update)
+  - [Scenario 2: Loan Disbursement System Upgrade](#scenario-2-loan-disbursement-system-upgrade)
+  - [Scenario 3: Mobile Banking App Release](#scenario-3-mobile-banking-app-release)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Core Banking System Blue-Green Deployment](#e2e-example-1-core-banking-system-blue-green-deployment)
+  - [E2E Example 2: Credit Card System Canary Deployment](#e2e-example-2-credit-card-system-canary-deployment)
+  - [E2E Example 3: Mobile Banking App Release Pipeline](#e2e-example-3-mobile-banking-app-release-pipeline)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🔍 What is Continuous Delivery?
 
 **Continuous Delivery** means your code is **always in a deployable state**. Every change that passes the automated pipeline is ready to go to production at the push of a button (or approval of a gate).

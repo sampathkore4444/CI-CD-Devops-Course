@@ -4,6 +4,20 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🔍 What is Disaster Recovery?](#-what-is-disaster-recovery)
+- [🏗️ DR Architecture](#-dr-architecture)
+- [🔄 DR Strategies](#-dr-strategies)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Automated DR Failover Test](#e2e-example-1-automated-dr-failover-test)
+  - [E2E Example 2: DR Backup and Restore](#e2e-example-2-dr-backup-and-restore)
+  - [E2E Example 3: Multi-Region Deployment with DR](#e2e-example-3-multi-region-deployment-with-dr)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🔍 What is Disaster Recovery?
 
 **Disaster Recovery (DR)** is the process of restoring IT systems after a catastrophic event (hardware failure, natural disaster, cyber attack).

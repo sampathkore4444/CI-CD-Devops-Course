@@ -4,6 +4,25 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🛠️ The CI/CD Tool Landscape](#️-the-cicd-tool-landscape)
+- [🔧 Jenkins: The Industry Standard](#-jenkins-the-industry-standard)
+- [🔧 GitLab CI: Built-In with Git](#-gitlab-ci-built-in-with-git)
+- [🔧 ArgoCD: GitOps for Kubernetes](#-argocd-gitops-for-kubernetes)
+- [🏦 Real-World Banking Scenarios](#-real-world-banking-scenarios)
+  - [Scenario 1: Jenkins for Legacy Banking Systems](#scenario-1-jenkins-for-legacy-banking-systems)
+  - [Scenario 2: GitLab CI for Microservices](#scenario-2-gitlab-ci-for-microservices)
+  - [Scenario 3: ArgoCD for Multi-Cluster Banking](#scenario-3-argocd-for-multi-cluster-banking)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Jenkins Pipeline for Core Banking Migration](#e2e-example-1-jenkins-pipeline-for-core-banking-migration)
+  - [E2E Example 2: GitLab CI for 30 Microservices](#e2e-example-2-gitlab-ci-for-30-microservices)
+  - [E2E Example 3: ArgoCD GitOps for Multi-Cluster Banking](#e2e-example-3-argocd-gitops-for-multi-cluster-banking)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🛠️ The CI/CD Tool Landscape
 
 ```

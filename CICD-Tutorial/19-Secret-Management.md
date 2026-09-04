@@ -4,6 +4,20 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🔍 Why Secret Management Matters](#-why-secret-management-matters)
+- [🏗️ HashiCorp Vault Architecture](#️-hashicorp-vault-architecture)
+- [🔑 Vault Secret Engines](#-vault-secret-engines)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Application Secret Injection](#e2e-example-1-application-secret-injection)
+  - [E2E Example 2: Automatic Secret Rotation](#e2e-example-2-automatic-secret-rotation)
+  - [E2E Example 3: Vault Audit Trail for Compliance](#e2e-example-3-vault-audit-trail-for-compliance)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🔍 Why Secret Management Matters
 
 ```

@@ -4,6 +4,24 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🔍 What is Monitoring & Observability?](#-what-is-monitoring--observability)
+- [📊 Prometheus + Grafana: Metrics & Dashboards](#-prometheus--grafana-metrics--dashboards)
+- [📝 ELK Stack: Centralized Logging](#-elk-stack-centralized-logging)
+- [🏦 Real-World Banking Scenarios](#-real-world-banking-scenarios)
+  - [Scenario 1: Real-Time Payment Monitoring Dashboard](#scenario-1-real-time-payment-monitoring-dashboard)
+  - [Scenario 2: CI/CD Pipeline Monitoring](#scenario-2-cicd-pipeline-monitoring)
+  - [Scenario 3: Distributed Tracing for Payment Flows](#scenario-3-distributed-tracing-for-payment-flows)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Complete Payment Service Monitoring Stack](#e2e-example-1-complete-payment-service-monitoring-stack)
+  - [E2E Example 2: Distributed Tracing for Transaction Debugging](#e2e-example-2-distributed-tracing-for-transaction-debugging)
+  - [E2E Example 3: SLA Monitoring & Reporting](#e2e-example-3-sla-monitoring--reporting)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🔍 What is Monitoring & Observability?
 
 **Monitoring** tells you **what** is happening (errors, latency, CPU usage). **Observability** tells you **why** it's happening (distributed tracing, log correlation, root cause analysis).

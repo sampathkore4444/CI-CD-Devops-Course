@@ -4,6 +4,25 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🔍 What is Continuous Deployment?](#-what-is-continuous-deployment)
+- [🏗️ CD Pipeline Architecture](#-cd-pipeline-architecture)
+- [🔄 CD in Kubernetes (Your Notes.md Flow)](#-cd-in-kubernetes-your-notesmd-flow)
+- [📋 Complete Pipeline Example](#-complete-pipeline-example)
+- [🏦 Real-World Banking Scenarios](#-real-world-banking-scenarios)
+  - [Scenario 1: Microservice Auto-Deployment](#scenario-1-microservice-auto-deployment)
+  - [Scenario 2: Feature Flag-Based Deployment](#scenario-2-feature-flag-based-deployment)
+  - [Scenario 3: Automated Rollback on Failure](#scenario-3-automated-rollback-on-failure)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Real-Time Payment Microservice Deployment](#e2e-example-1-real-time-payment-microservice-deployment)
+  - [E2E Example 2: Feature Flag Rollout for New UPI Feature](#e2e-example-2-feature-flag-rollout-for-new-upi-feature)
+  - [E2E Example 3: Automated Rollback for Payment Gateway](#e2e-example-3-automated-rollback-for-payment-gateway)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🔍 What is Continuous Deployment?
 
 **Continuous Deployment** takes Continuous Delivery one step further: **every change** that passes all automated tests and quality gates is **automatically deployed to production** — with no human intervention.

@@ -4,6 +4,20 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🔍 What is GitOps (Advanced)?](#-what-is-gitops-advanced)
+- [🏗️ ArgoCD Architecture for Banking](#-argocd-architecture-for-banking)
+- [📋 GitOps Repository Structure](#-gitops-repository-structure)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Multi-Cluster GitOps Deployment](#e2e-example-1-multi-cluster-gitops-deployment)
+  - [E2E Example 2: GitOps Rollback](#e2e-example-2-gitops-rollback)
+  - [E2E Example 3: GitOps with Kustomize](#e2e-example-3-gitops-with-kustomize)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🔍 What is GitOps (Advanced)?
 
 GitOps is more than "use Git for deployments." It's a **complete operational framework** where Git is the single source of truth for everything — infrastructure, applications, and configuration.

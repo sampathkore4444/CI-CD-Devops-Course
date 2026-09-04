@@ -4,6 +4,21 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🔍 What is a Service Mesh?](#-what-is-a-service-mesh)
+- [🏗️ Istio Architecture](#️-istio-architecture)
+- [🔒 Security Features](#-security-features)
+- [📊 Observability Features](#-observability-features)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Secure Payment Service Communication](#e2e-example-1-secure-payment-service-communication)
+  - [E2E Example 2: Traffic Management for Canary Release](#e2e-example-2-traffic-management-for-canary-release)
+  - [E2E Example 3: Circuit Breaker for Fault Tolerance](#e2e-example-3-circuit-breaker-for-fault-tolerance)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🔍 What is a Service Mesh?
 
 A **Service Mesh** is an infrastructure layer that handles **service-to-service communication**. It provides security, observability, and traffic management without changing application code.

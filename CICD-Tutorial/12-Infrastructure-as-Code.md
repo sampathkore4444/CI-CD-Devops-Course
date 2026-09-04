@@ -4,6 +4,25 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🔍 What is Infrastructure as Code?](#-what-is-infrastructure-as-code)
+- [🏗️ IaC Tool Landscape](#-iac-tool-landscape)
+- [🔧 Terraform Basics](#-terraform-basics)
+- [🔧 Ansible Basics](#-ansible-basics)
+- [🏦 Real-World Banking Scenarios](#-real-world-banking-scenarios)
+  - [Scenario 1: Multi-Cloud Infrastructure Provisioning](#scenario-1-multi-cloud-infrastructure-provisioning)
+  - [Scenario 2: Automated Server Hardening](#scenario-2-automated-server-hardening)
+  - [Scenario 3: Infrastructure Drift Detection](#scenario-3-infrastructure-drift-detection)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Provision Multi-Region K8s Cluster with Terraform](#e2e-example-1-provision-multi-region-k8s-cluster-with-terraform)
+  - [E2E Example 2: Server Hardening with Ansible](#e2e-example-2-server-hardening-with-ansible)
+  - [E2E Example 3: Infrastructure Drift Detection & Remediation](#e2e-example-3-infrastructure-drift-detection--remediation)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🔍 What is Infrastructure as Code?
 
 **Infrastructure as Code** means defining and managing infrastructure (servers, networks, databases) through **code files** instead of manual configuration.

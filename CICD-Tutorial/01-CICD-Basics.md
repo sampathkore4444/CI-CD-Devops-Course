@@ -4,6 +4,25 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🧱 What is CI/CD?](#-what-is-cicd)
+- [📜 The Evolution: How We Got Here](#-the-evolution-how-we-got-here)
+- [🔄 The CI/CD Pipeline — Visual Overview](#-the-cicd-pipeline--visual-overview)
+- [🏦 Real-World Banking Scenarios](#-real-world-banking-scenarios)
+  - [Scenario 1: Online Banking Login Fix](#scenario-1-online-banking-login-fix)
+  - [Scenario 2: Regulatory Compliance Update](#scenario-2-regulatory-compliance-update)
+  - [Scenario 3: Multi-Region ATM Software Rollout](#scenario-3-multi-region-atm-software-rollout)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Building a NEFT Transfer Service from Scratch](#e2e-example-1-building-a-neft-transfer-service-from-scratch)
+  - [E2E Example 2: Multi-Region UPI Gateway Deployment](#e2e-example-2-multi-region-upi-gateway-deployment)
+  - [E2E Example 3: Real-Time Fraud Detection System](#e2e-example-3-real-time-fraud-detection-system)
+- [🎯 Key Benefits of CI/CD](#-key-benefits-of-cicd)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🧱 What is CI/CD?
 
 **CI/CD** stands for **Continuous Integration / Continuous Delivery (or Deployment)**. It is a set of practices that automates the process of getting code from a developer's laptop into production safely and quickly.

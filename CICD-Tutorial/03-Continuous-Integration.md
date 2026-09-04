@@ -4,6 +4,26 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🔍 What is Continuous Integration?](#-what-is-continuous-integration)
+- [🏗️ How CI Works — Step by Step](#-how-ci-works--step-by-step)
+- [📋 CI Pipeline Stages in Detail](#-ci-pipeline-stages-in-detail)
+- [🧪 Testing Pyramid](#-testing-pyramid)
+- [📊 Code Quality Metrics](#-code-quality-metrics)
+- [🏦 Real-World Banking Scenarios](#-real-world-banking-scenarios)
+  - [Scenario 1: Preventing a Production Outage with CI](#scenario-1-preventing-a-production-outage-with-ci)
+  - [Scenario 2: Automated Compliance Testing](#scenario-2-automated-compliance-testing)
+  - [Scenario 3: Database Migration Safety](#scenario-3-database-migration-safety)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: End-to-End Loan Application Processing Pipeline](#e2e-example-1-end-to-end-loan-application-processing-pipeline)
+  - [E2E Example 2: API Gateway CI Pipeline with Contract Testing](#e2e-example-2-api-gateway-ci-pipeline-with-contract-testing)
+  - [E2E Example 3: Database Migration CI Pipeline](#e2e-example-3-database-migration-ci-pipeline)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🔍 What is Continuous Integration?
 
 **Continuous Integration** is the practice where developers **frequently merge** their code changes into a shared repository. Each merge triggers an **automated build and test** process that validates the code works correctly.

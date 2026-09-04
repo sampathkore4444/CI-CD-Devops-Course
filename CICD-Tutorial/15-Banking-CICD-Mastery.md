@@ -4,6 +4,18 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🎯 Complete Banking CI/CD Architecture](#-complete-banking-cicd-architecture)
+- [🏦 End-to-End Example 1: UPI Payment Service](#-end-to-end-example-1-upi-payment-service)
+- [🏦 End-to-End Example 2: Core Banking System Migration](#-end-to-end-example-2-core-banking-system-migration)
+- [🏦 End-to-End Example 3: Multi-Region ATM Software](#-end-to-end-example-3-multi-region-atm-software)
+- [📋 Interview Questions](#-interview-questions)
+- [🎓 Your CI/CD Learning Path](#-your-cicd-learning-path)
+- [📚 Final Summary](#-final-summary)
+
+---
+
 ## 🎯 Complete Banking CI/CD Architecture
 
 ```

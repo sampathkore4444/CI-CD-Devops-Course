@@ -4,6 +4,25 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🎯 Interview Strategy](#-interview-strategy)
+- [📋 Top 50 Banking CI/CD Interview Questions](#-top-50-banking-cicd-interview-questions)
+  - [Category 1: CI/CD Fundamentals](#category-1-cicd-fundamentals)
+  - [Category 2: Git & Version Control](#category-2-git--version-control)
+  - [Category 3: Docker & Containers](#category-3-docker--containers)
+  - [Category 4: Kubernetes](#category-4-kubernetes)
+  - [Category 5: CI/CD Tools](#category-5-cicd-tools)
+  - [Category 6: Deployment Strategies](#category-6-deployment-strategies)
+  - [Category 7: Monitoring & Observability](#category-7-monitoring--observability)
+  - [Category 8: Security (DevSecOps)](#category-8-security-devsecops)
+  - [Category 9: Infrastructure as Code](#category-9-infrastructure-as-code)
+  - [Category 10: Advanced Topics](#category-10-advanced-topics)
+- [🎯 Final Tips for Banking CI/CD Interviews](#-final-tips-for-banking-cicd-interviews)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🎯 Interview Strategy
 
 ```

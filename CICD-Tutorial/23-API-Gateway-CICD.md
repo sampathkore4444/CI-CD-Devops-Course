@@ -4,6 +4,20 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🔍 What is an API Gateway?](#-what-is-an-api-gateway)
+- [🔧 API Gateway Features](#-api-gateway-features)
+- [📋 API Gateway Configuration](#-api-gateway-configuration)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: API Versioning Strategy](#e2e-example-1-api-versioning-strategy)
+  - [E2E Example 2: Rate Limiting for API Abuse Prevention](#e2e-example-2-rate-limiting-for-api-abuse-prevention)
+  - [E2E Example 3: API Monitoring Dashboard](#e2e-example-3-api-monitoring-dashboard)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🔍 What is an API Gateway?
 
 An **API Gateway** is the single entry point for all client requests. It handles authentication, rate limiting, routing, and monitoring.

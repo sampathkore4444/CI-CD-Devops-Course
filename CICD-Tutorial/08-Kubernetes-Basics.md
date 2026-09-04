@@ -4,6 +4,25 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🔍 What is Kubernetes?](#-what-is-kubernetes)
+- [🏗️ Kubernetes Architecture](#️-kubernetes-architecture)
+- [📋 Core Kubernetes Objects](#-core-kubernetes-objects)
+- [🔧 Essential kubectl Commands](#-essential-kubectl-commands)
+- [🏦 Real-World Banking Scenarios](#-real-world-banking-scenarios)
+  - [Scenario 1: Zero-Downtime Deployment](#scenario-1-zero-downtime-deployment)
+  - [Scenario 2: Auto-Scaling During Peak Hours](#scenario-2-auto-scaling-during-peak-hours)
+  - [Scenario 3: Self-Healing and Health Checks](#scenario-3-self-healing-and-health-checks)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Payment Service Kubernetes Deployment](#e2e-example-1-payment-service-kubernetes-deployment)
+  - [E2E Example 2: Auto-Scaling Payment Service During Salary Day](#e2e-example-2-auto-scaling-payment-service-during-salary-day)
+  - [E2E Example 3: Zero-Downtime Deployment with Health Checks](#e2e-example-3-zero-downtime-deployment-with-health-checks)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🔍 What is Kubernetes?
 
 **Kubernetes** (K8s) is a container orchestration platform that automates the deployment, scaling, and management of containerized applications.

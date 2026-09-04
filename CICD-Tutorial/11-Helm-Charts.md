@@ -4,6 +4,24 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🎯 What is Helm?](#-what-is-helm)
+- [📦 Helm Chart Structure](#-helm-chart-structure)
+- [🔧 Essential Helm Commands](#-essential-helm-commands)
+- [🏦 Real-World Banking Scenarios](#-real-world-banking-scenarios)
+  - [Scenario 1: Environment-Specific Deployments](#scenario-1-environment-specific-deployments)
+  - [Scenario 2: Canary Release with Helm](#scenario-2-canary-release-with-helm)
+  - [Scenario 3: Helm Chart Versioning for Compliance](#scenario-3-helm-chart-versioning-for-compliance)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Helm Chart for Payment Service Across Environments](#e2e-example-1-helm-chart-for-payment-service-across-environments)
+  - [E2E Example 2: Helm Chart Rollback in Production](#e2e-example-2-helm-chart-rollback-in-production)
+  - [E2E Example 3: Helm Chart Versioning for Audit Trail](#e2e-example-3-helm-chart-versioning-for-audit-trail)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🎯 What is Helm?
 
 **Helm** is the **package manager for Kubernetes** — think of it as `apt` or `npm` for K8s. It bundles Kubernetes manifests into reusable, configurable packages called **Charts**.

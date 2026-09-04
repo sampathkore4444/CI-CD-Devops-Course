@@ -4,6 +4,24 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🔍 What is DevSecOps?](#-what-is-devsecops)
+- [🏗️ Security at Every Pipeline Stage](#-security-at-every-pipeline-stage)
+- [🔒 Security Tools & Techniques](#-security-tools--techniques)
+- [🏦 Real-World Banking Scenarios](#-real-world-banking-scenarios)
+  - [Scenario 1: Preventing Data Leakage in Source Code](#scenario-1-preventing-data-leakage-in-source-code)
+  - [Scenario 2: Compliance-Driven Security Gates](#scenario-2-compliance-driven-security-gates)
+  - [Scenario 3: Runtime Security Monitoring](#scenario-3-runtime-security-monitoring)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Complete Security Pipeline for Payment Service](#e2e-example-1-complete-security-pipeline-for-payment-service)
+  - [E2E Example 2: Incident Response for Vulnerable Dependency](#e2e-example-2-incident-response-for-vulnerable-dependency)
+  - [E2E Example 3: Runtime Security Monitoring with Falco](#e2e-example-3-runtime-security-monitoring-with-falco)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🔍 What is DevSecOps?
 
 **DevSecOps** = Development + Security + Operations. It means **security is everyone's responsibility** and is integrated into every stage of the pipeline, not bolted on at the end.

@@ -4,6 +4,25 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [🔍 What is a Docker Registry?](#-what-is-a-docker-registry)
+- [🏗️ Types of Registries](#-types-of-registries)
+- [🔧 Registry Operations](#-registry-operations)
+- [🔒 Registry Security](#-registry-security)
+- [🏦 Real-World Banking Scenarios](#-real-world-banking-scenarios)
+  - [Scenario 1: Secure Image Promotion Pipeline](#scenario-1-secure-image-promotion-pipeline)
+  - [Scenario 2: Incident Response — Vulnerable Image Discovery](#scenario-2-incident-response--vulnerable-image-discovery)
+  - [Scenario 3: Audit Trail for Regulators](#scenario-3-audit-trail-for-regulators)
+- [🏦 Banking End-to-End Examples](#-banking-end-to-end-examples)
+  - [E2E Example 1: Complete Image Lifecycle for Payment Service](#e2e-example-1-complete-image-lifecycle-for-payment-service)
+  - [E2E Example 2: Vulnerability Response Pipeline](#e2e-example-2-vulnerability-response-pipeline)
+  - [E2E Example 3: Harbor Image Retention & Compliance](#e2e-example-3-harbor-image-retention--compliance)
+- [📋 Interview Questions](#-interview-questions)
+- [📚 Summary](#-summary)
+
+---
+
 ## 🔍 What is a Docker Registry?
 
 A **Docker Registry** is a storage and distribution system for Docker images. Think of it as a **GitHub for Docker images** — you push images to it and pull them when needed.
