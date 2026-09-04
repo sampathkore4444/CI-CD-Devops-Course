@@ -645,7 +645,7 @@ In banking, the same image might run in development, staging, and production, en
 ### Q2: Why use multi-stage builds in Docker?
 **Answer:** Multi-stage builds separate the build process from the runtime. The build stage includes compilers, build tools, and source code (large image). The runtime stage includes only the compiled artifact and runtime (small image). 
 
-Benefits: 
+**Benefits:**
 
 (1) **Smaller images** — production images are 4-5x smaller. 
 
